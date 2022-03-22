@@ -3,7 +3,7 @@ Shapes, is a Advance computer graphics project, developed with OpenGL/ C++.
 
 in main.cpp, The code for the project is written in C++.
 in shaders.cpp the required code to render shapes
-vertexshader and fragment shader, required for renedring and attributing the shapes and window.
+vertexshader and fragment shader, required for rendering and attributing the shapes and window.
 
 
 The Purpose of the project is to manipulate shapes and perform operations on them such as translation, scaling and rotation.
